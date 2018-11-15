@@ -2,7 +2,7 @@
 ### Bước 1: Tải bản Full Võ Lâm Truyền Kỳ tại http://volam.zing.vn/
 Sau khi tải xong ,tiến  hành xóa tất cả các thư mục từ thư mục data
 ### Bước 2: Tải Patch này về tại https://github.com/vnshares/jx-volamtutuyet-patch
-![game](https://user-images.githubusercontent.com/42957164/45596637-f6dc8b00-b9e8-11e8-8b79-bc798897dadd.png)
+![github](https://user-images.githubusercontent.com/45057838/48531281-41d22c00-e8ce-11e8-8192-5eb15114780c.png)
 ## Bước 3: Giải nén và copy toàn bộ file Patch này vào trong thư mục của data ở **bước 1**. Thư mục hoàn chỉnh như sau:
 ![game2](https://user-images.githubusercontent.com/42957164/45596651-589cf500-b9e9-11e8-8e9c-2811e10978bd.png)
 ### Bước 4: Thêm DEP cho Game.EXE
